@@ -12,6 +12,7 @@ Clone this repository.
 3. Open up the image and scan the image for different packages and versions. Packages can be of multiple types - rpms, debs, python, go, etc
 4. Connect to OpenCVE with the package and version and check for CVEs
 5. Create a report of the number of critical, high, medium and low severity CVEs
+6. Code can be written in any language.
 
 ## Documentation Requirements
 1. README.md file with installation instructions and how to run
